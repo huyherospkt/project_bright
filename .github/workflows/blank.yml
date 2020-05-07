@@ -1,6 +1,6 @@
 - uses: yanzay/notify-telegram@v0.1.0
       if: always()
       with:
-        chat: ${{ project_bright }} # user id or channel name secret
-        token: ${{ 996672602:AAH9-vHkgts-VVdumhVZa3ltXyYpT6DutDg }} # token secret
+        chat: project_bright # user id or channel name secret
+        token: 996672602:AAH9-vHkgts-VVdumhVZa3ltXyYpT6DutDg # token secret
         status: ${{ job.status }} # do not modify this line
