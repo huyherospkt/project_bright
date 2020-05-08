@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fdsafdsa fdsa fdsa fsda fdsalklas f dfadsafds fdasfdsa fdsafd fadfds fdsa fds 321312 fdasfds dfafdsf ffdklaflkds 32
+=======
+fdsafdsa fdsa fdsa fsda fdsalklas f dfadsafds fdasfdsa fdsafd fadfds fdsa fds 321312 fdasfds dfafdsf ffdklaflkds gjhghjjh
+>>>>>>> 8a0ade7e6e21abfd85cc6de698572c3af2ac988e
